@@ -24,6 +24,18 @@ public class DolAdapter extends RecyclerView.Adapter<DolAdapter.DolViewHolder>{
     Context context;
     ArrayList<DOL> data;
 
+
+    public interface OnItemClickListener {
+        void onItemClick(View v, int position) ;
+    }
+
+    private OnItemClickListener mListener = null ;
+
+    // OnItemClickListener 리스너 객체 참조를 어댑터에 전달하는 메서드
+    public void setOnItemClickListener(OnItemClickListener listener) {
+        this.mListener = listener ;
+    }
+
     DolAdapter(Context context, ArrayList<DOL> data){
         this.context = context;
         this.data = data;
@@ -73,8 +85,15 @@ public class DolAdapter extends RecyclerView.Adapter<DolAdapter.DolViewHolder>{
 
             itemView.setOnClickListener(new View.OnClickListener(){
                @Override
-               public void onClick(View v){
-                    custom_dialog();
+               public void onClick(View v) {
+                   int pos = getAdapterPosition();
+                   if (pos != RecyclerView.NO_POSITION) {
+                       // 리스너 객체의 메서드 호출.
+                       if (mListener != null) {
+                           mListener.onItemClick(v, pos);
+                       }
+                       custom_dialog();
+                   }
                }
             });
 
@@ -101,7 +120,9 @@ public class DolAdapter extends RecyclerView.Adapter<DolAdapter.DolViewHolder>{
         }
     }
 
-    private void custom_dialog(){/*
+    private void custom_dialog(){
+        System.out.println("hello");
+        /*
         View view = View.inflate(this, R.layout.custom_dialog, null);
         //context = activity(this.)
         final EditText et = view.findViewById(R.id.etFruit); //view가 만들어지고 나서 선언가능

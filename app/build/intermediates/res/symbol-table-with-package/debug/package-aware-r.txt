@@ -1114,6 +1114,7 @@ drawable googleg_standard_color_18
 drawable gun
 drawable handong
 drawable ic_edit_black_24dp
+drawable ic_folder_open_black_24dp
 drawable ic_launcher_background
 drawable ic_launcher_foreground
 drawable ic_mouse_black_24dp
@@ -1444,6 +1445,7 @@ id transition_layout_save
 id transition_position
 id transition_scene_layoutid_cache
 id transition_transform
+id tv
 id unchecked
 id uniform
 id unlabeled
@@ -1531,6 +1533,8 @@ layout activity_project
 layout content_lab6_1
 layout custom_dialog
 layout custom_dialog2
+layout custom_dialog3
+layout custom_dialog4
 layout design_bottom_navigation_item
 layout design_bottom_sheet_dialog
 layout design_layout_snackbar

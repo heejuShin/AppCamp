@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.my.appcamp"
+    android:targetSandboxVersion="2"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="16"
+        android:targetSdkVersion="29" />
+    <!-- <uses-permission android:name="android.permission.INTERNET"></uses-permission> -->
+    <!-- <uses-permission-sdk-23 android:name="android.permission.INTERNET"></uses-permission-sdk-23> -->
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <!-- Include required permissions for Google Maps API to run. -->
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <uses-feature
+        android:glEsVersion="0x00020000"
+        android:required="true" />
+
+    <application
+        android:allowBackup="true"
+        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+        android:debuggable="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="App"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:testOnly="true"
+        android:theme="@style/AppTheme" >
+        <activity android:name="com.my.appcamp.Project" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.my.appcamp.FruitActivity" >
+        </activity>
+        <activity android:name="com.my.appcamp.FileActivity" />
+        <activity android:name="com.my.appcamp.Main4" />
+        <activity android:name="com.my.appcamp.DialogActivity" />
+        <activity
+            android:name="com.my.appcamp.Main3"
+            android:theme="@style/AppTheme" />
+        <activity android:name="com.my.appcamp.Lab6_4" />
+        <activity android:name="com.my.appcamp.Lab6_3" />
+        <activity android:name="com.my.appcamp.Lab6_2" />
+        <activity
+            android:name="com.my.appcamp.Lab6_1"
+            android:label="@string/title_activity_lab6_1"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name="com.my.appcamp.Lab5" />
+        <activity android:name="com.my.appcamp.Lab4" />
+        <activity android:name="com.my.appcamp.Lab3" />
+        <activity android:name="com.my.appcamp.Lab2" />
+        <activity android:name="com.my.appcamp.Lab1" />
+        <activity
+            android:name="com.my.appcamp.Main2Activity"
+            android:label="SecondApp" />
+        <activity android:name="com.my.appcamp.MainActivity" />
+        <!-- Needs to be explicitly declared on P+ -->
+        <uses-library
+            android:name="org.apache.http.legacy"
+            android:required="false" />
+
+        <activity
+            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+            android:exported="false"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+    </application>
+
+</manifest>

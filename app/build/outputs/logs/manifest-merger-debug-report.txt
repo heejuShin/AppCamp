@@ -1,0 +1,305 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/heeju/Desktop/AppCamp/app/src/main/AndroidManifest.xml:2:1-48:12
+INJECTED from /Users/heeju/Desktop/AppCamp/app/src/main/AndroidManifest.xml:2:1-48:12
+INJECTED from /Users/heeju/Desktop/AppCamp/app/src/main/AndroidManifest.xml:2:1-48:12
+INJECTED from /Users/heeju/Desktop/AppCamp/app/src/main/AndroidManifest.xml:2:1-48:12
+MERGED from [com.google.android.material:material:1.0.0] /Users/heeju/.gradle/caches/transforms-2/files-2.1/7f5629d98311d32246c6faaae7d1ef85/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/heeju/.gradle/caches/transforms-2/files-2.1/0e8bd3c5d2be6f4736f48fc067d826d8/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/heeju/.gradle/caches/transforms-2/files-2.1/0ecda6e5418ca777cf6ebb661338ac0b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/heeju/.gradle/caches/transforms-2/files-2.1/051b7fab07414af1cd7fd6b8c7928a71/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/heeju/.gradle/caches/transforms-2/files-2.1/bc707d0ec3bf5df01873b39ddb83f879/AndroidManifest.xml:17:1-38:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/heeju/.gradle/caches/transforms-2/files-2.1/55eb54538f4a515610e7d69ae0060cc1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/heeju/.gradle/caches/transforms-2/files-2.1/c9620f07b53d9db0b4658ea9149e77bb/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/heeju/.gradle/caches/transforms-2/files-2.1/2796e078ea089e117c05b124e4894fef/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/heeju/.gradle/caches/transforms-2/files-2.1/61c64c7469eca531f092456dd45be569/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/heeju/.gradle/caches/transforms-2/files-2.1/11c9c4820eb4537881ad3cff3d588afd/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/heeju/.gradle/caches/transforms-2/files-2.1/a89d6f528a417b59dea8d5d38090c3b3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/heeju/.gradle/caches/transforms-2/files-2.1/de50271517ffb7322cb473fe57eaca02/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/heeju/.gradle/caches/transforms-2/files-2.1/072dc5d9e7a9f7379df7bf55867d4af1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/heeju/.gradle/caches/transforms-2/files-2.1/f57a401a4f2653d7fbb375689d2855e1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] /Users/heeju/.gradle/caches/transforms-2/files-2.1/4798295294ed1a3a0ac6e3c41bd5fb53/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/heeju/.gradle/caches/transforms-2/files-2.1/5b5ab9c0b3fa40275ed1f8d90a7e7d02/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/heeju/.gradle/caches/transforms-2/files-2.1/114f318e7c0ba415fd24404021599cc8/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/heeju/.gradle/caches/transforms-2/files-2.1/5e579d0d20355f8d4c6c6e0e5fee3c74/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/heeju/.gradle/caches/transforms-2/files-2.1/04f0fd45bdaf1de3d03ffc71b45195c2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/heeju/.gradle/caches/transforms-2/files-2.1/bd5b07df6617e28a58f29b90ba606780/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/heeju/.gradle/caches/transforms-2/files-2.1/60647315e12a93eddaa19708b24c8c31/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/heeju/.gradle/caches/transforms-2/files-2.1/cd6fbbd899e0068e291e6cd8213a210e/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/heeju/.gradle/caches/transforms-2/files-2.1/d0bbb486aaa22543c736189cdf45e764/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/heeju/.gradle/caches/transforms-2/files-2.1/3f548e18f2f192cc85d004b4d4c1ef1c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/heeju/.gradle/caches/transforms-2/files-2.1/80e5e8f4a3ed1c64063d1d24ee5748bc/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] /Users/heeju/.gradle/caches/transforms-2/files-2.1/8307896941657e99d8e87ec5b69a936c/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/heeju/.gradle/caches/transforms-2/files-2.1/eaeaf2335243c9c1370c65a33cf1c110/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/heeju/.gradle/caches/transforms-2/files-2.1/6b08905431b10597e54a72876c88ac9b/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/heeju/.gradle/caches/transforms-2/files-2.1/0ed7c7c104d47f545db970f31310b644/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/heeju/.gradle/caches/transforms-2/files-2.1/0da1dcba95ce5c5129b3907512fd936d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/heeju/.gradle/caches/transforms-2/files-2.1/7297601506eed372628ef538d5ea109c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/heeju/.gradle/caches/transforms-2/files-2.1/87805812f9b75b7914c51764045acafa/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/heeju/.gradle/caches/transforms-2/files-2.1/76e4cdedce7af5cf4eef02e8a72621b5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/heeju/.gradle/caches/transforms-2/files-2.1/fe2782293bcc3a785df3e84342cd0d38/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/heeju/.gradle/caches/transforms-2/files-2.1/6e299248013f60f2891ea13aba5fb578/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/heeju/.gradle/caches/transforms-2/files-2.1/20ccd00fd472de63eeb4399b19fb5429/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/heeju/.gradle/caches/transforms-2/files-2.1/23c0551edc71e9f0552bec9290cd912f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/heeju/.gradle/caches/transforms-2/files-2.1/3ee064e288ec61feaf826b27d3da3aca/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/heeju/Desktop/AppCamp/app/src/main/AndroidManifest.xml:2:1-48:12
+INJECTED from /Users/heeju/Desktop/AppCamp/app/src/main/AndroidManifest.xml:2:1-48:12
+INJECTED from /Users/heeju/Desktop/AppCamp/app/src/main/AndroidManifest.xml:2:1-48:12
+	package
+		ADDED from /Users/heeju/Desktop/AppCamp/app/src/main/AndroidManifest.xml:3:5-29
+		INJECTED from /Users/heeju/Desktop/AppCamp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/heeju/Desktop/AppCamp/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/heeju/Desktop/AppCamp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/heeju/Desktop/AppCamp/app/src/main/AndroidManifest.xml:2:1-48:12
+		INJECTED from /Users/heeju/Desktop/AppCamp/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/heeju/Desktop/AppCamp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/heeju/Desktop/AppCamp/app/src/main/AndroidManifest.xml:2:1-48:12
+		INJECTED from /Users/heeju/Desktop/AppCamp/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/heeju/Desktop/AppCamp/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/heeju/Desktop/AppCamp/app/src/main/AndroidManifest.xml:6:5-67
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/heeju/.gradle/caches/transforms-2/files-2.1/bc707d0ec3bf5df01873b39ddb83f879/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/heeju/.gradle/caches/transforms-2/files-2.1/bc707d0ec3bf5df01873b39ddb83f879/AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from /Users/heeju/Desktop/AppCamp/app/src/main/AndroidManifest.xml:6:22-64
+application
+ADDED from /Users/heeju/Desktop/AppCamp/app/src/main/AndroidManifest.xml:8:5-46:19
+MERGED from [com.google.android.material:material:1.0.0] /Users/heeju/.gradle/caches/transforms-2/files-2.1/7f5629d98311d32246c6faaae7d1ef85/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] /Users/heeju/.gradle/caches/transforms-2/files-2.1/7f5629d98311d32246c6faaae7d1ef85/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/heeju/.gradle/caches/transforms-2/files-2.1/051b7fab07414af1cd7fd6b8c7928a71/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/heeju/.gradle/caches/transforms-2/files-2.1/051b7fab07414af1cd7fd6b8c7928a71/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/heeju/.gradle/caches/transforms-2/files-2.1/bc707d0ec3bf5df01873b39ddb83f879/AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/heeju/.gradle/caches/transforms-2/files-2.1/bc707d0ec3bf5df01873b39ddb83f879/AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/heeju/.gradle/caches/transforms-2/files-2.1/c9620f07b53d9db0b4658ea9149e77bb/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/heeju/.gradle/caches/transforms-2/files-2.1/c9620f07b53d9db0b4658ea9149e77bb/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/heeju/.gradle/caches/transforms-2/files-2.1/2796e078ea089e117c05b124e4894fef/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/heeju/.gradle/caches/transforms-2/files-2.1/2796e078ea089e117c05b124e4894fef/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/heeju/.gradle/caches/transforms-2/files-2.1/61c64c7469eca531f092456dd45be569/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/heeju/.gradle/caches/transforms-2/files-2.1/61c64c7469eca531f092456dd45be569/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.1.0] /Users/heeju/.gradle/caches/transforms-2/files-2.1/8307896941657e99d8e87ec5b69a936c/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] /Users/heeju/.gradle/caches/transforms-2/files-2.1/8307896941657e99d8e87ec5b69a936c/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/heeju/.gradle/caches/transforms-2/files-2.1/6b08905431b10597e54a72876c88ac9b/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/heeju/.gradle/caches/transforms-2/files-2.1/6b08905431b10597e54a72876c88ac9b/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] /Users/heeju/.gradle/caches/transforms-2/files-2.1/8307896941657e99d8e87ec5b69a936c/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/heeju/Desktop/AppCamp/app/src/main/AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from /Users/heeju/Desktop/AppCamp/app/src/main/AndroidManifest.xml:11:9-28
+	android:roundIcon
+		ADDED from /Users/heeju/Desktop/AppCamp/app/src/main/AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from /Users/heeju/Desktop/AppCamp/app/src/main/AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from /Users/heeju/Desktop/AppCamp/app/src/main/AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from /Users/heeju/Desktop/AppCamp/app/src/main/AndroidManifest.xml:14:9-40
+activity#com.my.appcamp.Project
+ADDED from /Users/heeju/Desktop/AppCamp/app/src/main/AndroidManifest.xml:15:9-21:20
+	android:name
+		ADDED from /Users/heeju/Desktop/AppCamp/app/src/main/AndroidManifest.xml:15:19-42
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/heeju/Desktop/AppCamp/app/src/main/AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from /Users/heeju/Desktop/AppCamp/app/src/main/AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from /Users/heeju/Desktop/AppCamp/app/src/main/AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/heeju/Desktop/AppCamp/app/src/main/AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from /Users/heeju/Desktop/AppCamp/app/src/main/AndroidManifest.xml:19:27-74
+activity#com.my.appcamp.FruitActivity
+ADDED from /Users/heeju/Desktop/AppCamp/app/src/main/AndroidManifest.xml:22:9-23:20
+	android:name
+		ADDED from /Users/heeju/Desktop/AppCamp/app/src/main/AndroidManifest.xml:22:19-48
+activity#com.my.appcamp.FileActivity
+ADDED from /Users/heeju/Desktop/AppCamp/app/src/main/AndroidManifest.xml:24:9-59
+	android:name
+		ADDED from /Users/heeju/Desktop/AppCamp/app/src/main/AndroidManifest.xml:24:19-47
+activity#com.my.appcamp.Main4
+ADDED from /Users/heeju/Desktop/AppCamp/app/src/main/AndroidManifest.xml:25:9-43
+	android:name
+		ADDED from /Users/heeju/Desktop/AppCamp/app/src/main/AndroidManifest.xml:25:19-40
+activity#com.my.appcamp.DialogActivity
+ADDED from /Users/heeju/Desktop/AppCamp/app/src/main/AndroidManifest.xml:26:9-52
+	android:name
+		ADDED from /Users/heeju/Desktop/AppCamp/app/src/main/AndroidManifest.xml:26:19-49
+activity#com.my.appcamp.Main3
+ADDED from /Users/heeju/Desktop/AppCamp/app/src/main/AndroidManifest.xml:27:9-29:47
+	android:theme
+		ADDED from /Users/heeju/Desktop/AppCamp/app/src/main/AndroidManifest.xml:29:13-44
+	android:name
+		ADDED from /Users/heeju/Desktop/AppCamp/app/src/main/AndroidManifest.xml:28:13-34
+activity#com.my.appcamp.Lab6_4
+ADDED from /Users/heeju/Desktop/AppCamp/app/src/main/AndroidManifest.xml:30:9-44
+	android:name
+		ADDED from /Users/heeju/Desktop/AppCamp/app/src/main/AndroidManifest.xml:30:19-41
+activity#com.my.appcamp.Lab6_3
+ADDED from /Users/heeju/Desktop/AppCamp/app/src/main/AndroidManifest.xml:31:9-44
+	android:name
+		ADDED from /Users/heeju/Desktop/AppCamp/app/src/main/AndroidManifest.xml:31:19-41
+activity#com.my.appcamp.Lab6_2
+ADDED from /Users/heeju/Desktop/AppCamp/app/src/main/AndroidManifest.xml:32:9-44
+	android:name
+		ADDED from /Users/heeju/Desktop/AppCamp/app/src/main/AndroidManifest.xml:32:19-41
+activity#com.my.appcamp.Lab6_1
+ADDED from /Users/heeju/Desktop/AppCamp/app/src/main/AndroidManifest.xml:33:9-36:59
+	android:label
+		ADDED from /Users/heeju/Desktop/AppCamp/app/src/main/AndroidManifest.xml:35:13-58
+	android:theme
+		ADDED from /Users/heeju/Desktop/AppCamp/app/src/main/AndroidManifest.xml:36:13-56
+	android:name
+		ADDED from /Users/heeju/Desktop/AppCamp/app/src/main/AndroidManifest.xml:34:13-35
+activity#com.my.appcamp.Lab5
+ADDED from /Users/heeju/Desktop/AppCamp/app/src/main/AndroidManifest.xml:37:9-42
+	android:name
+		ADDED from /Users/heeju/Desktop/AppCamp/app/src/main/AndroidManifest.xml:37:19-39
+activity#com.my.appcamp.Lab4
+ADDED from /Users/heeju/Desktop/AppCamp/app/src/main/AndroidManifest.xml:38:9-42
+	android:name
+		ADDED from /Users/heeju/Desktop/AppCamp/app/src/main/AndroidManifest.xml:38:19-39
+activity#com.my.appcamp.Lab3
+ADDED from /Users/heeju/Desktop/AppCamp/app/src/main/AndroidManifest.xml:39:9-42
+	android:name
+		ADDED from /Users/heeju/Desktop/AppCamp/app/src/main/AndroidManifest.xml:39:19-39
+activity#com.my.appcamp.Lab2
+ADDED from /Users/heeju/Desktop/AppCamp/app/src/main/AndroidManifest.xml:40:9-42
+	android:name
+		ADDED from /Users/heeju/Desktop/AppCamp/app/src/main/AndroidManifest.xml:40:19-39
+activity#com.my.appcamp.Lab1
+ADDED from /Users/heeju/Desktop/AppCamp/app/src/main/AndroidManifest.xml:41:9-42
+	android:name
+		ADDED from /Users/heeju/Desktop/AppCamp/app/src/main/AndroidManifest.xml:41:19-39
+activity#com.my.appcamp.Main2Activity
+ADDED from /Users/heeju/Desktop/AppCamp/app/src/main/AndroidManifest.xml:42:9-44:41
+	android:label
+		ADDED from /Users/heeju/Desktop/AppCamp/app/src/main/AndroidManifest.xml:44:13-38
+	android:name
+		ADDED from /Users/heeju/Desktop/AppCamp/app/src/main/AndroidManifest.xml:43:13-42
+activity#com.my.appcamp.MainActivity
+ADDED from /Users/heeju/Desktop/AppCamp/app/src/main/AndroidManifest.xml:45:9-50
+	android:name
+		ADDED from /Users/heeju/Desktop/AppCamp/app/src/main/AndroidManifest.xml:45:19-47
+uses-sdk
+INJECTED from /Users/heeju/Desktop/AppCamp/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/heeju/Desktop/AppCamp/app/src/main/AndroidManifest.xml
+INJECTED from /Users/heeju/Desktop/AppCamp/app/src/main/AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.0.0] /Users/heeju/.gradle/caches/transforms-2/files-2.1/7f5629d98311d32246c6faaae7d1ef85/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] /Users/heeju/.gradle/caches/transforms-2/files-2.1/7f5629d98311d32246c6faaae7d1ef85/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/heeju/.gradle/caches/transforms-2/files-2.1/0e8bd3c5d2be6f4736f48fc067d826d8/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/heeju/.gradle/caches/transforms-2/files-2.1/0e8bd3c5d2be6f4736f48fc067d826d8/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/heeju/.gradle/caches/transforms-2/files-2.1/0ecda6e5418ca777cf6ebb661338ac0b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/heeju/.gradle/caches/transforms-2/files-2.1/0ecda6e5418ca777cf6ebb661338ac0b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/heeju/.gradle/caches/transforms-2/files-2.1/051b7fab07414af1cd7fd6b8c7928a71/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/heeju/.gradle/caches/transforms-2/files-2.1/051b7fab07414af1cd7fd6b8c7928a71/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/heeju/.gradle/caches/transforms-2/files-2.1/bc707d0ec3bf5df01873b39ddb83f879/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/heeju/.gradle/caches/transforms-2/files-2.1/bc707d0ec3bf5df01873b39ddb83f879/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/heeju/.gradle/caches/transforms-2/files-2.1/55eb54538f4a515610e7d69ae0060cc1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/heeju/.gradle/caches/transforms-2/files-2.1/55eb54538f4a515610e7d69ae0060cc1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/heeju/.gradle/caches/transforms-2/files-2.1/c9620f07b53d9db0b4658ea9149e77bb/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/heeju/.gradle/caches/transforms-2/files-2.1/c9620f07b53d9db0b4658ea9149e77bb/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/heeju/.gradle/caches/transforms-2/files-2.1/2796e078ea089e117c05b124e4894fef/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/heeju/.gradle/caches/transforms-2/files-2.1/2796e078ea089e117c05b124e4894fef/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/heeju/.gradle/caches/transforms-2/files-2.1/61c64c7469eca531f092456dd45be569/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/heeju/.gradle/caches/transforms-2/files-2.1/61c64c7469eca531f092456dd45be569/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/heeju/.gradle/caches/transforms-2/files-2.1/11c9c4820eb4537881ad3cff3d588afd/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/heeju/.gradle/caches/transforms-2/files-2.1/11c9c4820eb4537881ad3cff3d588afd/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/heeju/.gradle/caches/transforms-2/files-2.1/a89d6f528a417b59dea8d5d38090c3b3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/heeju/.gradle/caches/transforms-2/files-2.1/a89d6f528a417b59dea8d5d38090c3b3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/heeju/.gradle/caches/transforms-2/files-2.1/de50271517ffb7322cb473fe57eaca02/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/heeju/.gradle/caches/transforms-2/files-2.1/de50271517ffb7322cb473fe57eaca02/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/heeju/.gradle/caches/transforms-2/files-2.1/072dc5d9e7a9f7379df7bf55867d4af1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/heeju/.gradle/caches/transforms-2/files-2.1/072dc5d9e7a9f7379df7bf55867d4af1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/heeju/.gradle/caches/transforms-2/files-2.1/f57a401a4f2653d7fbb375689d2855e1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/heeju/.gradle/caches/transforms-2/files-2.1/f57a401a4f2653d7fbb375689d2855e1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /Users/heeju/.gradle/caches/transforms-2/files-2.1/4798295294ed1a3a0ac6e3c41bd5fb53/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /Users/heeju/.gradle/caches/transforms-2/files-2.1/4798295294ed1a3a0ac6e3c41bd5fb53/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/heeju/.gradle/caches/transforms-2/files-2.1/5b5ab9c0b3fa40275ed1f8d90a7e7d02/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/heeju/.gradle/caches/transforms-2/files-2.1/5b5ab9c0b3fa40275ed1f8d90a7e7d02/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/heeju/.gradle/caches/transforms-2/files-2.1/114f318e7c0ba415fd24404021599cc8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/heeju/.gradle/caches/transforms-2/files-2.1/114f318e7c0ba415fd24404021599cc8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/heeju/.gradle/caches/transforms-2/files-2.1/5e579d0d20355f8d4c6c6e0e5fee3c74/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/heeju/.gradle/caches/transforms-2/files-2.1/5e579d0d20355f8d4c6c6e0e5fee3c74/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/heeju/.gradle/caches/transforms-2/files-2.1/04f0fd45bdaf1de3d03ffc71b45195c2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/heeju/.gradle/caches/transforms-2/files-2.1/04f0fd45bdaf1de3d03ffc71b45195c2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/heeju/.gradle/caches/transforms-2/files-2.1/bd5b07df6617e28a58f29b90ba606780/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/heeju/.gradle/caches/transforms-2/files-2.1/bd5b07df6617e28a58f29b90ba606780/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /Users/heeju/.gradle/caches/transforms-2/files-2.1/60647315e12a93eddaa19708b24c8c31/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/heeju/.gradle/caches/transforms-2/files-2.1/60647315e12a93eddaa19708b24c8c31/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/heeju/.gradle/caches/transforms-2/files-2.1/cd6fbbd899e0068e291e6cd8213a210e/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/heeju/.gradle/caches/transforms-2/files-2.1/cd6fbbd899e0068e291e6cd8213a210e/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/heeju/.gradle/caches/transforms-2/files-2.1/d0bbb486aaa22543c736189cdf45e764/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/heeju/.gradle/caches/transforms-2/files-2.1/d0bbb486aaa22543c736189cdf45e764/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/heeju/.gradle/caches/transforms-2/files-2.1/3f548e18f2f192cc85d004b4d4c1ef1c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/heeju/.gradle/caches/transforms-2/files-2.1/3f548e18f2f192cc85d004b4d4c1ef1c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/heeju/.gradle/caches/transforms-2/files-2.1/80e5e8f4a3ed1c64063d1d24ee5748bc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/heeju/.gradle/caches/transforms-2/files-2.1/80e5e8f4a3ed1c64063d1d24ee5748bc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] /Users/heeju/.gradle/caches/transforms-2/files-2.1/8307896941657e99d8e87ec5b69a936c/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /Users/heeju/.gradle/caches/transforms-2/files-2.1/8307896941657e99d8e87ec5b69a936c/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/heeju/.gradle/caches/transforms-2/files-2.1/eaeaf2335243c9c1370c65a33cf1c110/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/heeju/.gradle/caches/transforms-2/files-2.1/eaeaf2335243c9c1370c65a33cf1c110/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/heeju/.gradle/caches/transforms-2/files-2.1/6b08905431b10597e54a72876c88ac9b/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/heeju/.gradle/caches/transforms-2/files-2.1/6b08905431b10597e54a72876c88ac9b/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/heeju/.gradle/caches/transforms-2/files-2.1/0ed7c7c104d47f545db970f31310b644/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/heeju/.gradle/caches/transforms-2/files-2.1/0ed7c7c104d47f545db970f31310b644/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/heeju/.gradle/caches/transforms-2/files-2.1/0da1dcba95ce5c5129b3907512fd936d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/heeju/.gradle/caches/transforms-2/files-2.1/0da1dcba95ce5c5129b3907512fd936d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/heeju/.gradle/caches/transforms-2/files-2.1/7297601506eed372628ef538d5ea109c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/heeju/.gradle/caches/transforms-2/files-2.1/7297601506eed372628ef538d5ea109c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/heeju/.gradle/caches/transforms-2/files-2.1/87805812f9b75b7914c51764045acafa/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/heeju/.gradle/caches/transforms-2/files-2.1/87805812f9b75b7914c51764045acafa/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/heeju/.gradle/caches/transforms-2/files-2.1/76e4cdedce7af5cf4eef02e8a72621b5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/heeju/.gradle/caches/transforms-2/files-2.1/76e4cdedce7af5cf4eef02e8a72621b5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/heeju/.gradle/caches/transforms-2/files-2.1/fe2782293bcc3a785df3e84342cd0d38/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/heeju/.gradle/caches/transforms-2/files-2.1/fe2782293bcc3a785df3e84342cd0d38/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/heeju/.gradle/caches/transforms-2/files-2.1/6e299248013f60f2891ea13aba5fb578/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/heeju/.gradle/caches/transforms-2/files-2.1/6e299248013f60f2891ea13aba5fb578/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/heeju/.gradle/caches/transforms-2/files-2.1/20ccd00fd472de63eeb4399b19fb5429/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/heeju/.gradle/caches/transforms-2/files-2.1/20ccd00fd472de63eeb4399b19fb5429/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/heeju/.gradle/caches/transforms-2/files-2.1/23c0551edc71e9f0552bec9290cd912f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/heeju/.gradle/caches/transforms-2/files-2.1/23c0551edc71e9f0552bec9290cd912f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/heeju/.gradle/caches/transforms-2/files-2.1/3ee064e288ec61feaf826b27d3da3aca/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/heeju/.gradle/caches/transforms-2/files-2.1/3ee064e288ec61feaf826b27d3da3aca/AndroidManifest.xml:20:5-44
+INJECTED from /Users/heeju/Desktop/AppCamp/app/src/main/AndroidManifest.xml
+INJECTED from /Users/heeju/Desktop/AppCamp/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/heeju/Desktop/AppCamp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/heeju/Desktop/AppCamp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/heeju/Desktop/AppCamp/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/heeju/Desktop/AppCamp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/heeju/Desktop/AppCamp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/heeju/Desktop/AppCamp/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] /Users/heeju/.gradle/caches/transforms-2/files-2.1/bc707d0ec3bf5df01873b39ddb83f879/AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] /Users/heeju/.gradle/caches/transforms-2/files-2.1/bc707d0ec3bf5df01873b39ddb83f879/AndroidManifest.xml:23:22-76
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] /Users/heeju/.gradle/caches/transforms-2/files-2.1/bc707d0ec3bf5df01873b39ddb83f879/AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] /Users/heeju/.gradle/caches/transforms-2/files-2.1/bc707d0ec3bf5df01873b39ddb83f879/AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] /Users/heeju/.gradle/caches/transforms-2/files-2.1/bc707d0ec3bf5df01873b39ddb83f879/AndroidManifest.xml:28:9-32
+uses-library#org.apache.http.legacy
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] /Users/heeju/.gradle/caches/transforms-2/files-2.1/bc707d0ec3bf5df01873b39ddb83f879/AndroidManifest.xml:33:9-35:40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] /Users/heeju/.gradle/caches/transforms-2/files-2.1/bc707d0ec3bf5df01873b39ddb83f879/AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] /Users/heeju/.gradle/caches/transforms-2/files-2.1/bc707d0ec3bf5df01873b39ddb83f879/AndroidManifest.xml:34:13-50
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/heeju/.gradle/caches/transforms-2/files-2.1/c9620f07b53d9db0b4658ea9149e77bb/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/heeju/.gradle/caches/transforms-2/files-2.1/c9620f07b53d9db0b4658ea9149e77bb/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/heeju/.gradle/caches/transforms-2/files-2.1/c9620f07b53d9db0b4658ea9149e77bb/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/heeju/.gradle/caches/transforms-2/files-2.1/c9620f07b53d9db0b4658ea9149e77bb/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/heeju/.gradle/caches/transforms-2/files-2.1/61c64c7469eca531f092456dd45be569/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/heeju/.gradle/caches/transforms-2/files-2.1/61c64c7469eca531f092456dd45be569/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/heeju/.gradle/caches/transforms-2/files-2.1/61c64c7469eca531f092456dd45be569/AndroidManifest.xml:24:13-58

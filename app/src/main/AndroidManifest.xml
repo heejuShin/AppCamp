@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.my.appcamp">
+    <!-- <uses-permission android:name="android.permission.INTERNET"></uses-permission> -->
+    <!-- <uses-permission-sdk-23 android:name="android.permission.INTERNET"></uses-permission-sdk-23> -->
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="App"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".Project">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".FruitActivity">
+        </activity>
+        <activity android:name=".FileActivity"></activity>
+        <activity android:name=".Main4" />
+        <activity android:name=".DialogActivity" />
+        <activity
+            android:name=".Main3"
+            android:theme="@style/AppTheme" />
+        <activity android:name=".Lab6_4" />
+        <activity android:name=".Lab6_3" />
+        <activity android:name=".Lab6_2" />
+        <activity
+            android:name=".Lab6_1"
+            android:label="@string/title_activity_lab6_1"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".Lab5" />
+        <activity android:name=".Lab4" />
+        <activity android:name=".Lab3" />
+        <activity android:name=".Lab2" />
+        <activity android:name=".Lab1" />
+        <activity
+            android:name=".Main2Activity"
+            android:label="SecondApp" />
+        <activity android:name=".MainActivity" />
+    </application>
+
+</manifest>
